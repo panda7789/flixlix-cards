@@ -1,5 +1,11 @@
 # @flixlix-cards/web
 
+## 1.0.0
+
+### Major Changes
+
+- [`3f9f142`](https://github.com/flixlix/flixlix-cards/commit/3f9f142eb736d53828fcb5c9d6491077da109022) Thanks [@flixlix](https://github.com/flixlix)! - website under construction
+
 ## 0.0.3
 
 ### Patch Changes
